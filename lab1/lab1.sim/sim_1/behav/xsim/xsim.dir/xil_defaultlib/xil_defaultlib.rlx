@@ -1,0 +1,10 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+G:/labint/lab1/lab1.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+G:/labint/lab1/lab1.srcs/sim_1/new/TB.sv,1665320068,systemVerilog,,,,Coder_bench,,,,,,,,
+G:/labint/lab1/lab1.srcs/sim_1/new/TB2.sv,1665348190,systemVerilog,,,,Decoder_bench,,,,,,,,
+G:/labint/lab1/lab1.srcs/sim_1/new/tb3.sv,1665344114,systemVerilog,,,,Decoder_bench2,,,,,,,,
+G:/labint/lab1/lab1.srcs/sources_1/new/coder.sv,1665346163,systemVerilog,,G:/labint/lab1/lab1.srcs/sources_1/new/decoder.sv,,coder,,,,,,,,
+G:/labint/lab1/lab1.srcs/sources_1/new/decoder.sv,1665347601,systemVerilog,,G:/labint/lab1/lab1.srcs/sim_1/new/TB2.sv,,decoder,,,,,,,,
